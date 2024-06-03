@@ -1,8 +1,10 @@
-## Hi there 👋
+## Welcome
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=there-is-no-sp00n&layout=donut-vertical)](https://github.com/there-is-no-sp00n)) Personal
+### Personal :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=there-is-no-sp00n&layout=donut-vertical)](https://github.com/there-is-no-sp00n))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lhasa-Technology-Studios&layout=donut-vertical)](https://github.com/Lhasa-Technology-Studios)) Organization
+
+Check out my org: https://github.com/Lhasa-Technology-Studios
 
 <!--
 **there-is-no-sp00n/there-is-no-sp00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
