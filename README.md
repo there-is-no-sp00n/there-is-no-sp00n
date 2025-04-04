@@ -1,4 +1,4 @@
-## Welcome
+## Welcome 👋
 
 ### Language Distribution :
 ![Language Distribution](https://raw.githubusercontent.com/there-is-no-sp00n/there-is-no-sp00n/main/language_distribution.png)
