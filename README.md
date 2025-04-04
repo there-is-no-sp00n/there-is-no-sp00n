@@ -1,7 +1,7 @@
 ## Welcome
 
 ### Personal :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=there-is-no-sp00n&layout=donut-vertical)](https://github.com/there-is-no-sp00n))
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=there-is-no-sp00n&layout=donut-vertical)](https://github.com/there-is-no-sp00n)](https://github.com/there-is-no-sp00n/there-is-no-sp00n/blob/main/language_distribution.png))
 
 
 Check out my org: https://github.com/Lhasa-Technology-Studios
