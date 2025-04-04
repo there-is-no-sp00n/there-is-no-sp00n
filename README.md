@@ -1,7 +1,7 @@
 ## Welcome
 
 ### Personal :
-[![Top Langs] (https://github.com/there-is-no-sp00n/there-is-no-sp00n/blob/main/language_distribution.png)]
+![Language Distribution](https://raw.githubusercontent.com/there-is-no-sp00n/there-is-no-sp00n/main/language_distribution.png)
 
 
 Check out my org: https://github.com/Lhasa-Technology-Studios
